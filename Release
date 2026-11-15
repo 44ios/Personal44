@@ -1,0 +1,9 @@
+
+Origin: 44ios
+Label: Personal44
+Suite: stable
+Codename: stable
+Version: 1.0
+Architectures: iphoneos-arm
+Components: main
+Description: Repositorio oficial de tweaks iOS do 44ios
